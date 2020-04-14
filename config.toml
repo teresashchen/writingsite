@@ -14,7 +14,6 @@ publishDir = "docs"
   description ="生活是一點點的哭與笑，烘乾後的溫暖會聞得到清香"
   #mailchimp = "you can provide a mailchimp-link here"
   
-  
 
 [params.author]
   name = "泰瑞殺"
