@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 泰瑞殺生活洗坊</title>
-    <link>/blog/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on 泰瑞殺生活洗坊</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <copyright>泰瑞殺生活洗坊- All rights reserved</copyright>
     <lastBuildDate>Mon, 13 Apr 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>education</title>
-      <link>/blog/tags/education/</link>
+      <link>/tags/education/</link>
       <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>/blog/tags/education/</guid>
+      <guid>/tags/education/</guid>
       <description></description>
     </item>
     
     <item>
       <title>pedagogy</title>
-      <link>/blog/tags/pedagogy/</link>
+      <link>/tags/pedagogy/</link>
       <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>/blog/tags/pedagogy/</guid>
+      <guid>/tags/pedagogy/</guid>
       <description></description>
     </item>
     

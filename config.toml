@@ -1,4 +1,4 @@
-baseURL = "https://drtc.netlify.com/blog/"
+baseURL = "/"
 languageCode = "zh"
 title = "泰瑞殺生活洗坊"
 theme = "mediumish-gohugo-theme"
@@ -13,6 +13,7 @@ publishDir = "docs"
   logo = "/images/TC_logo2.png"
   description ="生活是一點點的哭與笑，烘乾後的溫暖會聞得到清香"
   #mailchimp = "you can provide a mailchimp-link here"
+  url = "/blog"
   
 
 [params.author]
