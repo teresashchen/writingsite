@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "http://drtc.netlify.com"
 languageCode = "zh"
 title = "泰瑞殺生活洗坊"
 theme = "mediumish-gohugo-theme"
