@@ -1,0 +1,65 @@
+baseURL = "/"
+languageCode = "zh"
+title = "泰瑞殺生活洗坊"
+theme = "mediumish-gohugo-theme"
+summaryLength = 25
+copyright = "泰瑞殺生活洗坊- All rights reserved"
+enableEmoji = true
+publishDir = "docs"
+#disqusShortname = "your-shortname-here"
+#googleAnalytics = "UA-1XXXXXXX1-1"
+
+[params]
+  logo = "/images/TC_logo2.png"
+  description ="生活是一點點的哭與笑，烘乾後的溫暖會聞得到清香"
+  #mailchimp = "you can provide a mailchimp-link here"
+  
+
+[params.author]
+  name = "泰瑞殺"
+  thumbnail = "/images/TC_green.png"
+  description = "作者"
+
+[params.index]
+  picture = "/images/TC_green.png"
+  title = "泰瑞殺生活洗坊"
+  subtitle = " "
+  mdtext = '''
+什麼是你最喜歡的味道? 『烘衣服的味道』我總是這樣回答。\
+ \
+好像一閉上眼睛就能聞到那股溫暖，撫慰人心，消除焦慮，如同一副看不見實體的良藥。\
+ \
+生活是一點點的哭與笑，最後都會成為值得記憶的溫暖。
+### Explore, Educate and Empower
+'''
+  alertbar = false
+
+#[params.social]
+#  github = "<username>"
+#  linkedin = "<username>"
+#  xing = "<username>"
+#  medium = "<username>"
+#  twitter = "<username>"
+#  instagram = "<username>"
+
+## Main Menu
+[[menu.main]]
+    name = "文章列表 Blog"
+    weight = 100
+    identifier = "blog"
+    url = "/blog"
+[[menu.main]]
+    name = "關於我 About Me"
+    identifier = "about"
+    weight = 200
+    url = "/"
+#[[menu.main]]
+#    name = "Imprint"
+#    identifier = "imprint"
+#    weight = 200
+#    url = "/static/imprint"
+#[[menu.main]]
+#    name = "Imprint2"
+#    identifier = "imprint2"
+#    weight = 200
+#    url = "/static/imprint2"

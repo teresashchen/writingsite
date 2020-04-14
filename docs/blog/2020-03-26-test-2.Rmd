@@ -1,0 +1,16 @@
+---
+title: 'Test # 2'
+author: Teresa Chen
+date: '2020-03-26'
+slug: test-2
+categories:
+  - R
+tags:
+  - R Markdown
+publishdate: '2020-03-26T23:20:26-07:00'
+comments: yes
+---
+
+中文網站!
+
+[this is test](/blog/2020-03-26-test-2_files/coverphoto.jpg)

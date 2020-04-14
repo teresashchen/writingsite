@@ -1,0 +1,21 @@
+---
+title: 測試
+author: Teresa Chen
+date: '2020-03-26'
+slug: []
+categories:
+  - R
+tags:
+  - R Markdown
+publishdate: '2020-03-26T23:46:02-07:00'
+comments: yes
+---
+
+![](cover_krudele.jpg)
+
+![](shadow_white bk.jpg)
+
+
+這是為了測試字體的打字
+
+[number 4](/blog/2020-03-26-test-number-4)

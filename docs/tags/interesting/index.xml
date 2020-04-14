@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>interesting on 泰瑞殺生活洗坊</title>
+    <link>/tags/interesting/</link>
+    <description>Recent content in interesting on 泰瑞殺生活洗坊</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <copyright>泰瑞殺生活洗坊- All rights reserved</copyright>
+    <lastBuildDate>Thu, 26 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/interesting/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test Number 4</title>
+      <link>/blog/2020-03-26-test-number-4/</link>
+      <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2020-03-26-test-number-4/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

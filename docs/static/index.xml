@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Statics on 泰瑞殺生活洗坊</title>
+    <link>/static/</link>
+    <description>Recent content in Statics on 泰瑞殺生活洗坊</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <copyright>泰瑞殺生活洗坊- All rights reserved</copyright>
+    <lastBuildDate>Sun, 07 Oct 2018 11:12:00 +0200</lastBuildDate>
+    
+	<atom:link href="/static/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Imprint</title>
+      <link>/static/imprint/</link>
+      <pubDate>Sun, 07 Oct 2018 11:12:00 +0200</pubDate>
+      
+      <guid>/static/imprint/</guid>
+      <description>Imprint Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum. Interdum et malesuada fames ac ante ipsum primis in faucibus.</description>
+    </item>
+    
+    <item>
+      <title>imprint2</title>
+      <link>/static/imprint2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/static/imprint2/</guid>
+      <description>TitlesubtitleTitle 2Titlehow come there is no toc :(
+subtitleTitle 2</description>
+    </item>
+    
+  </channel>
+</rss>

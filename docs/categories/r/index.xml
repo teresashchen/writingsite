@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R on 泰瑞殺生活洗坊</title>
+    <link>/categories/r/</link>
+    <description>Recent content in R on 泰瑞殺生活洗坊</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <copyright>泰瑞殺生活洗坊- All rights reserved</copyright>
+    <lastBuildDate>Fri, 27 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/r/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>測試</title>
+      <link>/blog/2020-03-27-test-number-3/</link>
+      <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2020-03-27-test-number-3/</guid>
+      <description>這是為了測試字體的打字
+number 4</description>
+    </item>
+    
+    <item>
+      <title>Test Number 4</title>
+      <link>/blog/2020-03-26-test-number-4/</link>
+      <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2020-03-26-test-number-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hello R Markdown</title>
+      <link>/blog/2015-07-23-r-rmarkdown/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/blog/2015-07-23-r-rmarkdown/</guid>
+      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.</description>
+    </item>
+    
+  </channel>
+</rss>

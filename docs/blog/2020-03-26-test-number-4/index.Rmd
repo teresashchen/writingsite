@@ -1,0 +1,14 @@
+---
+title: Test Number 4
+author: Teresa Chen
+date: '2020-03-26'
+slug: []
+categories:
+  - R
+tags:
+  - interesting
+publishdate: '2020-03-26T23:46:42-07:00'
+comments: yes
+---
+
+![](bridge.gif)
